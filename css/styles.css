@@ -130,3 +130,22 @@ header nav ul li {
     position: absolute;
     top: 0;
 }
+.menu .close{
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    width: fit-content;
+}
+.menu ul{
+    margin-top: 30px;
+    list-style: none;
+}
+.menu ul li{
+    padding: 10px 0;
+    color: white;
+    font-size: 20px;
+}
+.menu ul li span{
+    color: rgb(130, 2, 2);
+    margin-right: 10px;
+}
